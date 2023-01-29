@@ -1,3 +1,4 @@
+我们的demo：https://celebrate-birthday.github.io/birthday-19/
 1.启动Chrome，输入chrome://flags/#autoplay-policy,
 第一个选项Autoplay policy设置为no user gesture is required,然后关闭Chrome
 
